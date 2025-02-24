@@ -12,9 +12,10 @@ namespace lok_wss
         {
             _services = ConfigureServices();
 
-            Thread scanThread = new Thread(() =>
+            Thread scanThread = new Thread(async () =>
             {
-                ContinentScanner continentScanner = new ContinentScanner(61);
+                ContinentScanner continentScanner = new ContinentScanner();
+                await continentScanner.InitializeAsync(61);
             });
             scanThread.Start();
 
