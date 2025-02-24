@@ -1,0 +1,5 @@
+/home/runner/workspace/obj/Debug/net5.0/lok wss.csproj.AssemblyReference.cache
+/home/runner/workspace/obj/Debug/net5.0/lok wss.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/obj/Debug/net5.0/lok wss.AssemblyInfoInputs.cache
+/home/runner/workspace/obj/Debug/net5.0/lok wss.AssemblyInfo.cs
+/home/runner/workspace/obj/Debug/net5.0/lok wss.csproj.CoreCompileInputs.cache
